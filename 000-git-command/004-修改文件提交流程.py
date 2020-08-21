@@ -29,5 +29,5 @@
 # 查看所有提交记录
 # git log --oneline
 # 查看简写的提交记录
-# git log --author = "author" 
+# git log --author="author" 
 # 查找某个作者所有提交记录
